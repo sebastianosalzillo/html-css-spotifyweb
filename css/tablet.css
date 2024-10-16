@@ -1,0 +1,17 @@
+@media screen and (max-width: 992px) {
+     .main-top {
+        display: flex;
+        justify-content: space-between;
+        color: aliceblue;
+        flex-wrap: wrap;
+    } 
+
+
+    .card {
+        width: calc(96%/2);
+        text-align: center;
+        color: aliceblue;
+        margin-bottom: 10px;
+    }
+    
+}

@@ -3,7 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+.display-none1 {
+    display: none;
+}
 
 
 
@@ -142,7 +144,7 @@
 
 }
 .navbar-footer img {
-    padding 2px
+    margin-right: 10px;
 }
 
 .navbar-footer img {
@@ -249,7 +251,6 @@ h3 {
 
 .card {
     width: calc(96%/4);
-    background-color: brown;
     text-align: center;
     color: aliceblue;
     margin-bottom: 10px;
