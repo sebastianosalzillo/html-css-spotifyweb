@@ -9,7 +9,7 @@
 
 
     .card {
-        width: calc(96%/2);
+        width: calc(94%/4);
         text-align: center;
         color: aliceblue;
         margin-bottom: 10px;

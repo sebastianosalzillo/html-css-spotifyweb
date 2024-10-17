@@ -8,7 +8,7 @@
 
 
     .card {
-        width: calc(96%/4);
+        width: calc(96%/5);
         text-align: center;
         color: aliceblue;
         margin-bottom: 10px;

@@ -27,4 +27,26 @@
     background-color: rgb(0, 0, 0);
 }
 
+.recent {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    gap: 2%;
+
+
+}
+
+.w100 {
+    width: 100%;
+    margin-bottom: 5px;
+    
+}
+
+.card {
+    width: calc(94%/2);
+    text-align: center;
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+
 }
