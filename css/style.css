@@ -27,7 +27,7 @@
 
 /* NAV_BAR */
 .navbar {
-    width: 20%;
+    width: 200px;
     height: 100%;
     font-size: large;
     color: aliceblue;
@@ -111,7 +111,7 @@
     font-weight: bolder;
 }
 
-.nav-playlist span {}
+
 
 .p-title {
     font-size: large;
@@ -156,7 +156,7 @@
 /* full-section */
 
 .full-section {
-    width: 100%;
+    width:  100%;
     height: 90%;
     
     display: flex;
@@ -167,7 +167,7 @@
 
 /* header */
 .container {
-    width: 80%;
+    width: calc(100% - 200px);
     height: 100%;
 
     
